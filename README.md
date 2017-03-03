@@ -1,4 +1,4 @@
-# [触れるものすべてが砂利となる]MidasTouch
+# [触れるものすべてが砂利となる]RavenTofuTouch
 ## クレジット：Raventofu 様
 
 [**ダウンロード**](https://github.com/eyeq/mod-1.11.2-RavenTofuTouch/releases/download/1.0/1.11.2-RavenTofuTouch-1.0.jar)
